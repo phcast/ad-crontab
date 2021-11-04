@@ -1,5 +1,5 @@
 {
-    "name": "phcast/crontab",
+    "name": "phcast/ad-crontab",
     "description": "Crontab extension",
     "type": "library",
     "keywords": ["laravel-admin", "crontab"],
